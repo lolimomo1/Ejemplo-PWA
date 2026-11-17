@@ -1,0 +1,46 @@
+{
+    "short_name": "Mi pwa" ,
+    "name": "Ejemplo manifest de PWA" ,
+    "start_url": "index.html" ,
+    "background_color": "#2edfd0" ,
+    "theme_color": "rgb(9, 0, 141)" ,
+    "display": "standalone" ,
+    "osientation": "portrait" ,
+    "icons": [
+    {
+        "src": "/img/1.jpg",
+        "type": "image/jpg",
+        "sizes": "72x72"
+    },
+    {
+        "src": "/img/2.jpg",
+        "type": "image/jpg",
+        "sizes": "96x96"
+    },
+    {
+        "src": "/img/3.jpg",
+        "type": "image/jpg",
+        "sizes": "128x128"
+    },
+    {
+        "src": "/img/4.jpg",
+        "type": "image/jpg",
+        "sizes": "152x152"
+    },
+    {
+        "src": "/img/5.jpg",
+        "type": "image/jpg",
+        "sizes": "192x192"
+    },
+    {
+        "src": "/img/6.jpg",
+        "type": "image/jpg",
+        "sizes": "384x384"
+    },
+    {
+        "src": "/img/7.jpg",
+        "type": "image/jpg",
+        "sizes": "512x512"
+    }
+  ]
+}
