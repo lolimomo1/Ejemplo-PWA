@@ -21,13 +21,20 @@ self.addEventListener('install', evento=>{
     const cacheBase =caches.open(CACHE)
         .then(cache=>{
             return cache.addAll([
-                '/',
-                '/index.html',
-                '/css/style.css',
-                '/img/main.jpg',
-                '/js/app.js' ,
-                '/img/no-img.jpeg' ,
-                '/pages/offline.html'
+             //   '/',
+                'index.html' ,
+                'css/style.css',
+                'img/main.jpg',
+                'js/app.js' ,
+                'img/no-img.jpeg' ,
+                'pages/offline.html' ,
+                'img/1.jpg' ,
+                'img/2.jpg' ,
+                'img/3.jpg' ,
+                'img/4.jpg' ,
+                'img/5.jpg' ,
+                'img/6.jpg' ,
+                'img/7.jpg' ,
             ]);
         });
 
