@@ -43,5 +43,19 @@
         "type": "image/jpg",
         "sizes": "512x512"
     }
-  ]
+  ],
+  "screenshots": [
+  {
+    "src": "./img/main.jpg",
+    "sizes": "1280x720",
+    "type": "image/jpeg",
+    "form_factor": "wide"
+  },
+  {
+    "src": "./img/main2.jpg",
+    "sizes": "720x1280",
+    "type": "image/jpeg",
+    "form_factor": "narrow"
+  }
+]
 }
