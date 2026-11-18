@@ -35,6 +35,7 @@ self.addEventListener('install', evento=>{
                 'img/5.jpg' ,
                 'img/6.jpg' ,
                 'img/7.jpg' ,
+                'manifest.json' ,
             ]);
         });
 
